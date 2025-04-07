@@ -1,0 +1,229 @@
+{
+  "Macros": {
+    "E -> N1": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "E -> CA": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "CA"
+        }
+      ]
+    },
+    "E -> E": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "E"
+        }
+      ]
+    },
+    "E -> D": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "D"
+        }
+      ]
+    },
+    "E -> J": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "J"
+        }
+      ]
+    },
+    "E -> Walk": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Walk"
+        }
+      ]
+    },
+    "E -> Swap": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "E"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Swap"
+        }
+      ]
+    },
+    "hE -> N1": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "hE -> CA": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "CA"
+        }
+      ]
+    },
+    "hE -> E": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "E"
+        }
+      ]
+    },
+    "hE -> Q": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Q"
+        }
+      ]
+    },
+    "hE -> D": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "D"
+        }
+      ]
+    },
+    "hE -> J": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "J"
+        }
+      ]
+    },
+    "hE -> Walk": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Walk"
+        }
+      ]
+    },
+    "hE -> Swap": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "hE"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Swap"
+        }
+      ]
+    }
+  }
+}

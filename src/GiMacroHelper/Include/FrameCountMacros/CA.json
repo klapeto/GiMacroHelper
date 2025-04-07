@@ -1,0 +1,139 @@
+{
+  "Macros": {
+    "CA -> N1": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "CA -> CA": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "CA"
+        }
+      ]
+    },
+    "CA -> E": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "E"
+        }
+      ]
+    },
+    "CA -> hE": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "hE"
+        }
+      ]
+    },
+    "CA -> Q": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Q"
+        }
+      ]
+    },
+    "CA -> D": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "D"
+        }
+      ]
+    },
+    "CA -> J": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "J"
+        }
+      ]
+    },
+    "CA -> Walk": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Walk"
+        }
+      ]
+    },
+    "CA -> Swap": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "CA"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Swap"
+        }
+      ]
+    }
+  }
+}

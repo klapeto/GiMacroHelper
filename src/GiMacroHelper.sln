@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiMacroHelper", "GiMacroHelper\GiMacroHelper.csproj", "{FC8D3278-EDFD-4C2A-B1EC-82E92D6EEA61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Files", "Other Files", "{5005C59D-459F-430E-9FDC-B90AC932407B}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+		..\FileLayout.xml = ..\FileLayout.xml
+		stylecop.json = stylecop.json
+		Directory.Build.props = Directory.Build.props
+		Analyzers.ruleset = Analyzers.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8D3278-EDFD-4C2A-B1EC-82E92D6EEA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8D3278-EDFD-4C2A-B1EC-82E92D6EEA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8D3278-EDFD-4C2A-B1EC-82E92D6EEA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8D3278-EDFD-4C2A-B1EC-82E92D6EEA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

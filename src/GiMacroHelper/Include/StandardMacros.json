@@ -1,0 +1,142 @@
+{
+  "Macros": {
+    "Normal": {
+      "Actions": [
+        {
+          "Name": "Left Mouse Down"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Left Mouse Up"
+        }
+      ]
+    },
+    "E": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": "e"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Key Up",
+          "Char": "e"
+        }
+      ]
+    },    
+    "hE": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": "e"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 350
+        },
+        {
+          "Name": "Key Up",
+          "Char": "e"
+        }
+      ]
+    },
+    "Q": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": "q"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Key Up",
+          "Char": "q"
+        }
+      ]
+    },
+    "J": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": " "
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Key Up",
+          "Char": " "
+        }
+      ]
+    },
+    "D": {
+      "Actions": [
+        {
+          "Name": "Right Mouse Down"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Right Mouse Up"
+        }
+      ]
+    },
+    "Walk": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": "a"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 1000
+        },
+        {
+          "Name": "Key Up",
+          "Char": "a"
+        }
+      ]
+    },
+    "CA": {
+      "Actions": [
+        {
+          "Name": "Left Mouse Down"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 250
+        },
+        {
+          "Name": "Left Mouse Up"
+        }
+      ]
+    },
+    "Swap": {
+      "Actions": [
+        {
+          "Name": "Key Down",
+          "Char": "2"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Key Up",
+          "Char": "2"
+        }
+      ]
+    }
+  }
+}

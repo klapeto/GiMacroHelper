@@ -1,0 +1,14 @@
+{
+  "DefaultDelay": 0,
+  "ShortCuts": {
+    "=": "N2"
+  },
+  "Include": [
+    {
+      "Path": "./Include/StandardMacros.json"
+    },
+    {
+      "Path": "./Include/FrameCountMacros.json"
+    }
+  ]
+}

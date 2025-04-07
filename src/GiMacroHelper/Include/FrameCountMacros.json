@@ -1,0 +1,25 @@
+{
+  "Include": [
+    {
+      "Path": "./FrameCountMacros/CA.json"
+    },
+    {
+      "Path": "./FrameCountMacros/E.json"
+    },
+    {
+      "Path": "./FrameCountMacros/N.json"
+    },
+    {
+      "Path": "./FrameCountMacros/N1.json"
+    },
+    {
+      "Path": "./FrameCountMacros/N2.json"
+    },
+    {
+      "Path": "./FrameCountMacros/N3.json"
+    },
+    {
+      "Path": "./FrameCountMacros/Q.json"
+    }
+  ]
+}

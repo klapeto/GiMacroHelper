@@ -1,0 +1,117 @@
+{
+  "Macros": {
+    "N1": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N2": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N1"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N3": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N2"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N4": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N3"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N5": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N4"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N6": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N5"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N7": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N6"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    },
+    "N8": {
+      "ShortCut": "",
+      "Actions": [
+        {
+          "Name": "N7"
+        },
+        {
+          "Name": "Delay",
+          "Ms": 50
+        },
+        {
+          "Name": "Normal"
+        }
+      ]
+    }
+  }
+}
